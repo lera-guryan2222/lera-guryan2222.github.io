@@ -359,7 +359,7 @@ body {display: flex;}
     background-repeat: no-repeat;
     width: 29vw;
     height: 35vw;
-    margin-left: 28vw;
+    margin-left: 22vw;
     margin-top: -33vw;
 }
 .numb3{
@@ -374,7 +374,7 @@ body {display: flex;}
     width: 43.33vw;
     height: 42.47vw;
     margin-top: -40.67vw;
-    margin-left: 8vw;
+
 }
 .numb4{
     background-image: url('images/aaaq.svg');
