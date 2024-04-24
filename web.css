@@ -323,7 +323,7 @@ body {display: flex;}
     padding-left: 350px; */
     width: 73.33vw;
     height: 42.47vw;
-    position: relative;
+    position: absolute;
     padding-top: 8vw;
     padding-left: 20vw;
 }
