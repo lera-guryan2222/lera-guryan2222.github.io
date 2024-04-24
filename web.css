@@ -323,6 +323,7 @@ body {display: flex;}
     padding-left: 350px; */
     width: 73.33vw;
     height: 42.47vw;
+    position: relative;
     padding-top: 8vw;
     padding-left: 20vw;
 }
@@ -402,7 +403,7 @@ body {display: flex;}
     background-image: url('images/OG.svg');
     background-size: cover;
     transform: scale(1);
-    width: 100%;
+    width: 50%;
     /* height: 3000px;
     margin-top: 200px; */
     height: 200vw;
@@ -412,7 +413,7 @@ body {display: flex;}
     background-image: url('images/Buda.svg');
     background-size: cover;
     transform: scale(1);
-    width: 100%;
+    width: 50%;
     /* height: 3000px;
     margin-top: 450px; */
     height: 200vw;
