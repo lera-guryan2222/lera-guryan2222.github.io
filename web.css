@@ -2803,3 +2803,15 @@ body {display: flex;}
     margin-top: -1.33vw;
     margin-left: 4.33vw;
 }
+.card_title{
+            margin-bottom:10px;
+        }
+        @media (max-width: 900px) { 
+            .container{
+                flex-direction:column;
+            }
+            .card{
+                height:400px;
+                width:100%;
+            }
+         }
