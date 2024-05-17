@@ -36,7 +36,17 @@ body {display: flex;}
     height: 100%;
 }
 .tema{
-    padding-left: 30vw;
+    background-color: #babfc5;
+    border: 2px solid  #9181FF;
+    margin-top: -20vw;
+    margin-left: 10vw;
+    width: 7vw;
+    height: 2vw;
+    border-radius: 3vw;
+}
+.dark{
+    font-family: Roboto;
+    color: #595e64;
 }
 .shik{
     display: flex;
