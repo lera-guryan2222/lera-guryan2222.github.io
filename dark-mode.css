@@ -3071,12 +3071,6 @@ body {display: flex;}
     .start{
         display: none;
     }
-    .tell2{
-        font-size: 2.5vw;
-        line-height: 4vw;
-        width: 43vw;
-        margin-top: 19vw;
-    }
     .pi{
         font-size: 5vw;
         width: 100vw;
