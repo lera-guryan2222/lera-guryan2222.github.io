@@ -3321,5 +3321,8 @@ body {display: flex;}
     .line{
         display: none;
     }
+    .tell2{
+        display: none;
+    }
 }
 
